@@ -1,0 +1,3 @@
+[submodule "themes/hestia-pure"]
+	path = themes/hestia-pure
+	url = https://github.com/keanemind/hestia-pure.git
