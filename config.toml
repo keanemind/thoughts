@@ -1,0 +1,19 @@
+baseURL = "https://thoughts.keanenguyen.com/"
+languageCode = "en-us"
+title = "Thoughts"
+theme = "hestia-pure"
+
+[author]
+ author = 'Keane Nguyen'
+ profile = 'I am a computer engineering student at the University of Texas at Austin.'
+
+[Params]
+ copyright = "©2018 Keane Nguyen"
+ # localeOgp = "ja"
+ description = "I practice writing here."
+ keywords = ""
+ # twitter = ""
+ github = "keanemind"
+ # facebook = ""
+ # googleanalytics = "UA-12345678-9"
+ # googlecustomsearch = "xxxxxxxxx"
