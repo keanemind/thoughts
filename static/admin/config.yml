@@ -16,3 +16,4 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Image Path", name: "image", widget: "string", default: "/image/theme/og.png"}
+      - {label: "Body", name: "body", widget: "markdown"}
