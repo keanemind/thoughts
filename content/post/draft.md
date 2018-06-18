@@ -1,7 +1,7 @@
 ---
-title: "Hi"
-date: 2018-06-12T16:49:20-05:00
+title: Hi
+date: 2018-06-12T21:49:20.000Z
 draft: true
-image: "image/theme/author.jpg"
+image: image/theme/author.jpg
 ---
-
+Testing NetlifyCMS.
