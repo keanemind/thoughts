@@ -15,7 +15,7 @@ collections:
       - {label: "Title", name: "title", widget: "string", default: "untitled"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
-      - {label: "Image Path", name: "image", widget: "string", default: "/image/theme/og.png"}
+      - {label: "Image Path", name: "image", widget: "string", default: "/image/theme/og.png", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "unpublished" # Used in routes, e.g., /admin/collections/blog
@@ -27,5 +27,5 @@ collections:
       - {label: "Title", name: "title", widget: "string", default: "untitled"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
-      - {label: "Image Path", name: "image", widget: "string", default: "/image/theme/og.png"}
+      - {label: "Image Path", name: "image", widget: "string", default: "/image/theme/og.png", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
