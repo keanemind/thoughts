@@ -10,9 +10,17 @@ My close friend Bala was visiting campus from his apartment in North Austin, and
 
 "I hear music," I told my friends. "I don't know where it's coming from though."
 
-The cars stopped and the walk signal lit up. Stepping over the multicolored lines of the crosswalk, we approached the bus stop on the other side of the street, and I suddenly became aware that a man there was singing an opera tune at the top of his lungs, oblivious to the people walking by him. 
+The cars stopped and the walk signal lit up. Stepping over the multicolored lines of the crosswalk, we approached the bus stop on the other side of the street, and I suddenly became aware that a man there was singing an opera tune at the top of his lungs. I was so distracted by the mystery drums that I had failed to notice this man belting out to the sky, vibrato and all, oblivious to the people walking by him. 
 
 Stepping over the multicolored lines of the crosswalk, we approached the other side of the street. I was so distracted by the mystery drums that I failed to notice a man belting out an opera tune in front of me. I suddenly became aware of him as I stepped from the pavement onto the sidewalk. He stood next to a bus stop singing at the top of his lungs accompanied only by the sounds of the road, looking up to the sky and oblivious to the people walking by him. 
+
+"The music's right there," Kunal said, gesturing toward the opera man. 
+
+I rolled my eyes and opted to ignore his trolling this time. We were right in front of the University Union now. Abruptly, the drums stopped and I heard clapping and cheering that seemed to be coming from within the Union, 
+
+"Let's go find out where it's coming from," I urged my company.
+
+Without protest, Bala and Kunal followed me into the Union. 
 
 \---
 
