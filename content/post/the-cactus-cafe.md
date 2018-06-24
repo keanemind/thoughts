@@ -12,18 +12,14 @@ My close friend Bala was visiting campus from his apartment in North Austin, and
 
 The cars stopped and the walk signal lit up. Stepping over the multicolored lines of the crosswalk, we approached the bus stop on the other side of the street, and I suddenly became aware that a man there was singing an opera tune at the top of his lungs. I was so distracted by the mystery drums that I had failed to notice this man belting out to the sky, vibrato and all, oblivious to the people walking by him. 
 
-Stepping over the multicolored lines of the crosswalk, we approached the other side of the street. I was so distracted by the mystery drums that I failed to notice a man belting out an opera tune in front of me. I suddenly became aware of him as I stepped from the pavement onto the sidewalk. He stood next to a bus stop singing at the top of his lungs accompanied only by the sounds of the road, looking up to the sky and oblivious to the people walking by him. 
+Despite the new, discordant sound filling the air, I could tell that the percussion was getting ever louder as we walked past the stop.
 
-"The music's right there," Kunal said, gesturing toward the opera man. 
+"Where's it coming from?" I wondered aloud.
 
-I rolled my eyes and opted to ignore his trolling this time. We were right in front of the University Union now. Abruptly, the drums stopped and I heard clapping and cheering that seemed to be coming from within the Union, 
+"What are you looking for? The music's right there," said Kunal, gesturing behind us toward the opera man. 
 
-"Let's go find out where it's coming from," I urged my company.
+I rolled my eyes, opting not to reward his obvious trolling with any response. I was starting to get a little agitated. Perplexingly, the music sounded closer than ever, and yet still far away. Abruptly, the drums stopped, and the sounds of clapping and cheering emanated from the University Union.
 
-Without protest, Bala and Kunal followed me into the Union. 
+"Let's go find out what's happening," I urged my companions.
 
-\---
-
-It was around 9:00 PM, and I was walking down Guadalupe with my roommate and my close friend, who was visiting campus from his apartment in North Austin. We were making our way toward Gregory Gym to play a bit of basketball before the gym closed. Dusk was falling quickly, and in the distance I could hear a drum kit being played. We walked over the rainbow crosswalk and past a bus station, where a man stood singing an opera-sounding tune that conspicuously clashed with the contemporary music that grew louder with each step. 
-
-As we approached the University Union, I realized that the music was coming from inside.
+Without protest, Bala and Kunal followed me into the building.
