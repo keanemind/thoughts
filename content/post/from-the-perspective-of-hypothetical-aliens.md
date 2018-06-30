@@ -1,5 +1,5 @@
 ---
-title: Hypothetical Aliens
+title: Insights from Observing Hypothetical Aliens
 date: '2018-06-28T00:50:31-05:00'
 draft: true
 image: /image/theme/og.png
