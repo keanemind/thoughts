@@ -6,8 +6,4 @@ image: /image/theme/og.png
 ---
 Every once in a while, it strikes me that much of the human experience is peculiar. The thought came to me once again this evening as I was taking a shower. 
 
-Imagine an alien species living on Venus, shrouded from human observation by thick clouds of sulfuric acid.
-
-To enable us a change in perspective, let us entertain a hypothetical alien species inhabiting the surface of Venus, shrouded from human observation by the planet's thick clouds of sulfuric acid. Now, these creatures have physical features exactly coinciding with those of the ordinary house cat.
-
-Change all this to be bacteria discovered at the bottom of the ocean.
+To enable us a change in perspective, imagine we are twenty years into the future. Technological advancements in telescopes have led to the discovery of an alien species inhabiting the surface of Venus, heretofore shrouded from human observation by the planet's thick clouds of sulfuric acid. Now, it just so happens that these creatures have physical features exactly coinciding with those of the ordinary house cat. What distinguish the extraterrestrials from their counterparts on earth are their means of communication and their social behaviors.
