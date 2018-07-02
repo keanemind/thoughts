@@ -34,7 +34,7 @@ We stopped before the doors, and the cashier greeted us.
 
 "I was just closing up this table, actually," the cashier replied. "You guys can head on in and see them play their last song if you want."
 
-We thanked him and headed inside. I blinked and breathed in the smell of alcohol as my eyes adjusted to the dark. The stage was across the room, on the left. It was a small, elevated wooden area with plain white lights beaming down from above. Standing there was a band of four kids who looked like they were in middle school, maybe high school at the latest. The keyboard player was in front, standing before a mic. To the right of her was the guitarist, behind her was the drummer, and to the left was the bassist.
+We thanked him and went inside. I blinked, blinded by the relative darkness of my new environment. The air was heavily laden with the smell of alcohol. Silhouettes took shape and became objects as my eyes adjusted to the dim lighting. The stage was across the room, on the left. It was a small, elevated wooden area with plain white lights beaming down from above, the only lighting in the entire place. Standing there was a band of four kids who looked like they were in middle school, perhaps high school at the latest. The keyboard player was in front, standing before a mic. To the right of her was the guitarist, behind her was the drummer, and to her left was the bassist.
 
 On our right, farthest from the stage, was a small bar. Between the bar and the stage was a seating area composed of round, wooden tables. Although the nearest unoccupied table had several glasses half full of beer left on it, we sat there anyway to avoid drawing attention to ourselves. 
 
