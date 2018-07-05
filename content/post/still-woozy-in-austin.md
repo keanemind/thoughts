@@ -8,4 +8,6 @@ image: /image/theme/og.png
 
 Inside was a tabled dining area, with a railing toward the back that overlooked a very small performance stage on the lower story of the building. On the left were the stairs leading down. We went down the steps into a small standing space sandwiched between the stage and bar. The area was already occupied by quite a few people, standing around, drinking and making conversation.
 
-Usman and I walked to the bar to get water, then found a spot among the crowd with a clear view of the stage.
+Usman and I walked to the bar to get water, then found a spot among the crowd with a clear view of the stage. As we waited for the concert to start, we noticed a few people outside a back door, all wearing oversized teal shirts
+
+I will continue this on my phone
