@@ -38,4 +38,8 @@ We thanked him and went inside. I blinked, blinded by the relative darkness of m
 
 On our right, farthest from the stage, was a small bar. Between the bar and the stage was a seating area composed of round, wooden tables. Although the nearest unoccupied table had several glasses half full of beer left on it, we sat there anyway to avoid drawing attention to ourselves. 
 
-I watched as the keyboardist talked about how someone had mentored her and her bandmates. She then invited said person onstage. The man, who seemed to be in his 20s, went up with a white guitar and plugged it into an amplifier.
+I watched as the keyboardist thanked someone who had mentored her and her bandmates. She then pointed out said person in the audience, and invited him to play onstage. The man, who seemed to be in his 20s, went up with a white guitar and plugged it into an amplifier.
+
+The drummer counted the band in, and they started playing a groovy beat. Over the next few minutes, the bassist and the man with the white guitar would play solos. The drummer got his own solo toward the end of the performance. He even threw his stick in the air and caught it! The audience cheered him on.
+
+When the song ended, the keyboardist started speaking to the microphone again. Bala, Kunal, and I didn't have much time left to go to Greg, so we quickly left and thanked the man at the register as we walked by him.
