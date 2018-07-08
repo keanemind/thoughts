@@ -19,3 +19,5 @@ The vroom sound of the beat in C.R.E.A.M. by Wu-Tang Clan.
 The hammer-on pull-offs during John Mayer's live performance of Lenny / Man on the Side from Any Given Thursday.
 
 ? chord from 21 Guns by Green Day.
+
+The guitar playing individual notes on the right at 2:26 of シンフォニー by Lamp.
